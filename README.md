@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+## Welcome to my GitHub Account!!!
+
+I'm just a junior programmer
+
+So far, I have learned HTML, CSS, JavaScript and Python(numpy, pandas, sql, sqlite3, kivy, tkinter, ...)
+
+I mostly use Python since it is far comfortable for me
 
 <!--
 **ArthasEdit/ArthasEdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
