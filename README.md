@@ -1,9 +1,9 @@
 # Hi there 👋
 ## Welcome to my GitHub Account!!!
 
-I'm just a junior programmer
+I have been in programming since 2019 and started from Front-End and currently I work with Python
 
-So far, I have learned HTML, CSS, JavaScript and Python(numpy, pandas, sql, sqlite3, kivy, tkinter, ...)
+So far, I have learned HTML, CSS, JavaScript and Python(numpy, pandas, sql, sqlite3, kivy, tkinter, ...), Django
 
 I mostly use Python since it is far comfortable for me
 
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 ![pandas](https://user-images.githubusercontent.com/89140222/224984744-8d012f2d-fcb8-4387-b2b2-594de38f5ff6.png)
 ![kivy](https://user-images.githubusercontent.com/89140222/224984440-e6db0ab5-e5f1-4293-83fe-3d96a7ebeac6.png)
 ![tkinter](https://user-images.githubusercontent.com/89140222/224984443-45e5965f-d25e-4d6c-aa62-8bff308c60e2.jpg)
+![python-django](https://cdn5.f-cdn.com/ppic/105962178/logo/26832394/profile_logo_26832394.jpg)
